@@ -1,0 +1,8 @@
+
+
+export(FracField)
+export(FracKrig)
+export(FracMatrix)
+export(MaxLikelihood)
+importFrom("graphics", "mtext", "points")
+importFrom("stats", "rnorm")

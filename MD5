@@ -1,0 +1,10 @@
+32294b9e9a7f24a92988e7df36ad82f5 *DESCRIPTION
+fe09b42dbe196b45447dbdda66b56dba *NAMESPACE
+b08b0433c4b7157251526e7c53186fc5 *R/FracField.R
+541d30f9ba5af5b93719d46b4ff8569e *R/FracKrig.R
+ced8e8af452d155f5223e51372e2a01d *R/FracMatrix.R
+fe7b2558ab5f66425c67e2c0037228ed *R/MaxLikelihood.R
+44fce02cf14a6696bd669d1356a8e419 *man/FracField.Rd
+ccf970a32272d9283dab2747a8056d06 *man/FracKrig.Rd
+ab6009b9ab364363bbee028ee6ca657a *man/FracMatrix.Rd
+5e5b9f3db7643cedf7d0eaefe6a36ed2 *man/MaxLikelihood.Rd
